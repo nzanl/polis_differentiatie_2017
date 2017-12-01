@@ -1,1 +1,1 @@
-hier komt de tussen resultaten
+hier komen de tussenresultaten als je de r scripts runt.
