@@ -1,1 +1,1 @@
-hier komt de outputs
+hier komen de outputs als je de r scripts runt.
